@@ -35,7 +35,8 @@ I’m a dedicated Software Developer with a talent for crafting clean, responsiv
 **Tools:** Git, VS Code, Figma  
 **Databases:** MongoDB, MySQL, PostgreSQL  
 
-⚡ Fun fact: I started my career as a graphic designer, creating engaging visuals and designs that connected with people. Over the years, I grew into a Senior Graphic Designer role at a reputable company in the US, honing my skills in UI/UX and digital design.  
+⚡ **Fun fact:** 
+I started my career as a graphic designer, creating engaging visuals and designs that connected with people. Over the years, I grew into a Senior Graphic Designer role at a reputable company in the US, honing my skills in UI/UX and digital design.  
 Curious about how websites and applications are built, I decided to dive into Full-Stack Development. Learning modern JavaScript frameworks, building responsive interfaces, and developing backend systems quickly became a passion.  
 Now, I combine my design expertise with development skills to create seamless, user-friendly web applications. I love bringing ideas to life online, optimizing performance, and crafting experiences that people enjoy using.
 
