@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Hi, I'm Karen Martirosyan! 👋
 
 💻 **About Me**  
-I am a Full-Stack Developer and UI/UX Designer with over a decade of experience creating visually engaging, responsive, and user-friendly web applications. I specialize in crafting seamless digital experiences, optimizing performance and SEO, and bringing innovative ideas to life online.
+I started my career as a graphic designer, creating engaging visuals and designs that connected with people. Over the years, I grew into a Senior Graphic Designer role at a reputable company in the US, honing my skills in UI/UX and digital design.  
+Curious about how websites and applications are built, I decided to dive into Full-Stack Development. Learning modern JavaScript frameworks, building responsive interfaces, and developing backend systems quickly became a passion.  
+Now, I combine my design expertise with development skills to create seamless, user-friendly web applications. I love bringing ideas to life online, optimizing performance, and crafting experiences that people enjoy using.
 
 🌟 **What I Do**  
 **Frontend Development:** Building clean, accessible, and interactive user interfaces with React, Next.js, and Tailwind CSS.  
