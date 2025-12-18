@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 🔧 **Tools & Technologies**  
 **Languages:** HTML, CSS, JavaScript, TypeScript, SQL  
 **Frameworks/Libraries:** React, Next.js, Tailwind CSS, Bootstrap  
-**Tools:** Git, VS Code, Figma  
+**Tools:** git/github, VS Code, WebStorm, Cursor, Figma, Photoshop  
 **Databases:** MongoDB, MySQL, PostgreSQL
 
 ⚡ **Fun fact**  
