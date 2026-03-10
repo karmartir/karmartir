@@ -41,4 +41,4 @@ Curious about how websites and applications are built, I decided to dive into Fu
 Now, I combine my design expertise with development skills to create seamless, user-friendly web applications. I love bringing ideas to life online, optimizing performance, and crafting experiences that people enjoy using.
 
 🌐 **Connect with Me**  
-[Portfolio](https://portfolio-karma.netlify.app/) | [LinkedIn](www.linkedin.com/in/karmancho)
+[Portfolio](https://portfolio-karma.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/karmancho)
