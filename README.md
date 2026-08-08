@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Karen Martirosyan! 👋
+# Hi, I'm Garen Martirosyan! 👋
 
 💻 **About Me**  
   I’m a dedicated Software Developer with a talent for crafting clean, responsive, and intuitive websites. I focus on delivering meaningful user experiences through web applications, enjoy tackling complex problems, and take pride in optimizing performance, improving SEO, and turning ideas into functional digital solutions.
