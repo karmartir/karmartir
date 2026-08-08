@@ -1,44 +1,96 @@
+# Hi, I'm Garen Martirosyan 👋
 
+## Frontend Developer
 
-<!--
-**karmartir/karmartir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer focused on building responsive, user-friendly web applications with **React, Next.js, JavaScript, and TypeScript**.
 
-Here are some ideas to get you started:
+With a background in **UI/UX and visual design**, I combine development skills with a strong understanding of usability, layout, and user experience. My goal is to create clean, maintainable interfaces that are both functional and visually polished.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Garen Martirosyan! 👋
+I also have experience working with backend technologies when needed, including **Node.js, Express.js, REST APIs, and MongoDB**.
 
-💻 **About Me**  
-  I’m a dedicated Software Developer with a talent for crafting clean, responsive, and intuitive websites. I focus on delivering meaningful user experiences through web applications, enjoy tackling complex problems, and take pride in optimizing performance, improving SEO, and turning ideas into functional digital solutions.
+---
 
-🌟 **What I Do**  
-**Frontend Development:** Building clean, accessible, and interactive user interfaces with React, Next.js, and Tailwind CSS.  
-**Backend Development:** Developing robust server-side logic and managing databases with Node.js, MongoDB, and SQL.  
-**UI/UX Design:** Designing intuitive interfaces and enjoyable experiences that align with user needs and business goals.
+## 🛠️ Technologies & Tools
 
-🚀 **My Goals**  
-- Master advanced JavaScript frameworks and modern front-end techniques.  
-- Explore cutting-edge backend technologies and scalable architecture.  
-- Contribute to meaningful open-source projects and collaborate with creative teams.  
+### Frontend
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Redux
+- Responsive Web Design
 
-🔧 **Tools & Technologies**  
-**Languages:** HTML, CSS, JavaScript, TypeScript, SQL  
-**Frameworks/Libraries:** React, Next.js, Tailwind CSS, Bootstrap  
-**Tools:** git/github, VS Code, WebStorm, Cursor, Figma, Photoshop  
-**Databases:** MongoDB, MySQL, PostgreSQL
+### Backend & APIs
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
 
-⚡ **Background**  
-  I started my career as a graphic designer, creating engaging visuals and designs that connected with people. Over the years, I grew into a Senior Graphic Designer role at a reputable company in the US, honing my skills in UI/UX and digital design.  
-Curious about how websites and applications are built, I decided to dive into Full-Stack Development. Learning modern JavaScript frameworks, building responsive interfaces, and developing backend systems quickly became a passion.  
-Now, I combine my design expertise with development skills to create seamless, user-friendly web applications. I love bringing ideas to life online, optimizing performance, and crafting experiences that people enjoy using.
+### Tools
+- Git / GitHub
+- Vite
+- Postman
+- Figma
 
-🌐 **Connect with Me**  
-[Portfolio](https://portfolio-karma.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/karmancho)
+### AI-Assisted Development
+- ChatGPT
+- GitHub Copilot
+- Cursor AI
+
+---
+
+## 🚀 Featured Projects
+
+### ProShop — MERN Stack E-commerce Application
+Full-stack e-commerce application built with MongoDB, Express, React, and Node.js.
+
+Features:
+- Product listing and filtering
+- Responsive UI components
+- API integration
+- Performance-focused frontend development
+
+---
+
+### Pro-Store 2 — Next.js E-commerce Application
+
+Modern e-commerce application built with Next.js, serverless functionality, MongoDB/Prisma, and Tailwind CSS.
+
+Features:
+- Modern React architecture
+- Responsive design
+- Payment integration
+- SEO optimization
+
+---
+
+### LaunchPoint — Startup Investor Landing Page
+
+Responsive landing website built with React, Vite, and Tailwind CSS.
+
+Features:
+- Component-based architecture
+- Clean UI design
+- Accessibility-focused implementation
+- Smooth navigation
+
+---
+
+## 🎨 Design Background
+
+Before transitioning into frontend development, I worked extensively in **graphic design, publishing, and UI/UX design**.
+
+This experience helps me bridge the gap between design concepts and production-ready interfaces.
+
+---
+
+## 📫 Contact
+
+Portfolio: https://portfolio-karma.netlify.app/
+
+LinkedIn: https://linkedin.com/in/karmancho
+
+Email: contactgarenm@gmail.com
